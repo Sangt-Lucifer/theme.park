@@ -1,0 +1,22 @@
+@import url("http://cdn.thegeekfreaks.de/Download/theme.park/CSS/addons/unraid/login-page/alien/alien_base.css");
+:root {
+    --main-bg: radial-gradient(ellipse at center,rgba(255, 110, 0, 0) 0,rgba(255, 110, 0, 0.075) 45%) center center/cover no-repeat fixed, 
+    url(http://cdn.thegeekfreaks.de/Download/theme.park/CSS/addons/unraid/login-page/alien/Download.jpg) center center/cover no-repeat fixed;
+    --logo: url(http://cdn.thegeekfreaks.de/Download/theme.park/CSS/addons/unraid/login-page/alien/Logo_v2.png) center no-repeat;
+    --text-color: #FFFFFF;
+    --input-color: #ff802a;
+    --link-color: #ff802a;
+    --link-color-hover: #ff9f68;
+    --case-color: #ff802a;
+    --button-text-color: #ff802a;
+    --button-text-color-hover: #FFFFFF;
+    --button-color: #ff802a;
+    --button-color2: #9e5d13;
+    --button-color-hover: #FFFFFF;
+    --button-color2-hover: #ff9f68;
+    --input-font: 'Share Tech Mono', monospace;
+    --text-font: 'Share Tech Mono', monospace;   /*'VT323', 'Share Tech Mono'*/
+    --div-background-color-15: rgba(255, 110, 0, 0.05);
+    --text-shadow: 2 2 8px;
+    --box-shadow: 0 0 25px;
+}
