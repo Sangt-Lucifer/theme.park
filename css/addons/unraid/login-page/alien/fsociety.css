@@ -3,20 +3,20 @@
     --main-bg: radial-gradient(ellipse at center,rgba(0, 255, 119, 0.1) 0,rgba(0,255,119,0) 100%) center center/cover no-repeat fixed, 
     url(/css/addons/unraid/login-page/alien/wallpaper/hallway3.jpg) center center/cover no-repeat fixed;
     --logo: url(/css/addons/unraid/login-page/alien/logo/wings_green.png) center no-repeat;
-    --text-color: #37f592;
-    --input-color: #37f592;
-    --link-color: #37f592;
-    --link-color-hover: #68ffff;
-    --case-color: #37f592;
-    --button-text-color: #37f592;
+    --text-color: #ffffff;
+    --input-color: #ffffff;
+    --link-color: #ffffff;
+    --link-color-hover: #af0606;
+    --case-color: #ffffff;
+    --button-text-color: #ffffff;
     --button-text-color-hover: #000;
-    --button-color: #37f592;
-    --button-color2: #0C833D;
-    --button-color-hover: #68ffff;
-    --button-color2-hover: #68ffff;
+    --button-color: #ffffff;
+    --button-color2: #ffffff;
+    --button-color-hover: #af0606;
+    --button-color2-hover: #af0606;
     --input-font: 'Share Tech Mono', monospace;
     --text-font: 'Share Tech Mono', monospace;   /*'VT323', 'Share Tech Mono'*/
-    --div-background-color-15: rgba(0, 255, 111, 0.03);
+    --div-background-color-15: rgba(255, 255, 255, 0.03);
     --text-shadow: 0 0 8px;
     --box-shadow: 0 0 15px;
 }
