@@ -1,21 +1,20 @@
 @import url("/css/addons/unraid/login-page/alien/alien_base.css");
 :root {
-    --main-bg: radial-gradient(ellipse at center,rgba(0, 255, 119, 0.1) 0,rgba(0,255,119,0) 100%) center center/cover no-repeat fixed, 
-    url(https://ibracorp.io/) center center/cover no-repeat fixed;
-    --logo: url(https://scontent-muc2-1.xx.fbcdn.net/v/t39.30808-6/278035375_303364571918924_7152491279724502349_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=EyfYO8-iiVYAX8lx65b&tn=ztjr4THYFPkBFBTz&_nc_ht=scontent-muc2-1.xx&oh=00_AT91rrO_E3RdbL0pkTyRklmiNmFYi-PeVQB4uDgMJNnSbg&oe=62EAF875) center no-repeat;
+   --main-bg: radial-gradient(ellipse at center,rgba(226, 40, 40, 0.1) 0,rgba(226,40,40,0) 100%) center center/cover no-repeat fixed, url(https://i.imgur.com/0So6Tl4.jpg) center center/cover no-repeat fixed;
+    --logo: url(https://ibracorp.io/assets/IBRACORP_Neon.png) center no-repeat;
     --text-color: #e22828;
     --input-color: #e22828;
     --link-color: #e22828;
-    --link-color-hover: #ffffff;
+    --link-color-hover: #991515;
     --case-color: #e22828;
     --button-text-color: #e22828;
     --button-text-color-hover: #000;
     --button-color: #e22828;
-    --button-color2: #0C833D;
-    --button-color-hover: #ffffff;
-    --button-color2-hover: #68ffff;
+    --button-color2: #e22828;
+    --button-color-hover: #991515;
+    --button-color2-hover: #991515;
     --input-font: 'Share Tech Mono', monospace;
-    --text-font: 'Share Tech Mono', monospace;   /*'VT323', 'Share Tech Mono'*/
+    --text-font: 'Share Tech Mono', monospace;
     --div-background-color-15: rgba(0, 255, 111, 0.03);
     --text-shadow: 0 0 8px;
     --box-shadow: 0 0 15px;
