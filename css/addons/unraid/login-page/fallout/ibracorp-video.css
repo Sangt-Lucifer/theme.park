@@ -1,19 +1,19 @@
-@import url("/css/addons/unraid/login-page/fallout/fallout_base.css");
+@import url("/css/addons/unraid/login-page/fallout/fallout-base.css");
 :root {
     --main-bg-color: transparent;
-    --logo: url(/css/addons/unraid/login-page/fallout/logo/vault-tec_green.png) center no-repeat;
-    --text-color: #14F074;
-    --input-color: #14F074;
-    --link-color: #14F074;
-    --link-color-hover: #0C833D;
-    --case-color: #14F074;
-    --button-text-color: #14F074;
-    --button-text-color-hover: #FFFFFF;
-    --button-color: #14F074;
-    --button-color2: #0C833D;
+    --logo: url(https://i.imgur.com/PlQsioG.png) center no-repeat;
+    --text-color: #22828;
+    --input-color: #22828;
+    --link-color: #22828;
+    --link-color-hover: #22828;
+    --case-color: #22828;
+    --button-text-color: #22828;
+    --button-text-color-hover: #991515;
+    --button-color: #22828;
+    --button-color2: #22828;
     --input-font: 'Share Tech Mono', monospace;
     --text-font: 'Share Tech Mono', monospace;
-    --div-background-color-15: #0ea85118;
+    --div-background-color-15: #22828;
 
     /* Replace the variables if you have a dark background  */
     /* Light colors for dark backgrounds */
@@ -27,7 +27,7 @@
 }
 @media (max-width: 500px) {
     body {
-        background: url(/css/addons/unraid/login-page/fallout/wallpaper/terminal.jpg) center center/cover no-repeat fixed !important;
+        background: url(https://i.imgur.com/0So6Tl4.jpg) center center/cover no-repeat fixed !important;
     }
     :root {
         --div-background-color-15: transparent; 
