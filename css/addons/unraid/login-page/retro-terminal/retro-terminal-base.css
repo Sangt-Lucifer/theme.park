@@ -91,9 +91,9 @@ body::after {
     overflow: hidden;
     pointer-events: none;
 }
-
+/*
 @keyframes flicker {0% {opacity: 0.37633;}5% {opacity: 0.70002;}10% {opacity: 0.64427;}15% {opacity: 0.35591;}20% {opacity: 0.34054;}25% {opacity: 0.54917;}30% {opacity: 0.41056;}35% {opacity: 0.67637;}40% {opacity: 0.23681;}45% {opacity: 0.64945;}50% {opacity: 0.67522;}55% {opacity: 0.56049;}60% {opacity: 0.06113;}65% {opacity: 0.95766;}70% {opacity: 0.77945;}75% {opacity: 0.33817;}80% {opacity: 0.19735;}85% {opacity: 0.84337;}90% {opacity: 0.82867;}95% {opacity: 0.65512;}100% {opacity: 0.15179;}}
-
+*/
 @media only screen and (max-width: 768px) {
     #login {
         min-width: 300px;
