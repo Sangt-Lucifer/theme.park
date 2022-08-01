@@ -10,7 +10,7 @@
       url(https://i.imgur.com/0So6Tl4.jpg) center center/cover no-repeat fixed;
 --body-before: #ff00001a;
 --body-after: #ff000033;
-/*--body-animation: flicker;*/
+--body-animation: flicker;
 --logo: url(https://i.imgur.com/PlQsioG.png) center no-repeat;
 --text-color: #e22828;
 --input-color: #e22828;
@@ -24,7 +24,7 @@
 --selection-color: #ffffff;
 --custom-text-header: #e22828;
 --custom-text-header-shadow: #e22828;
-/*--custom-text-header-animation: textflicker;*/
+--custom-text-header-animation: textflicker;
 --input-font: 'Share Tech Mono', monospace;
 --text-font: 'Share Tech Mono', monospace;
 --loginbox-background-color: transparent;
