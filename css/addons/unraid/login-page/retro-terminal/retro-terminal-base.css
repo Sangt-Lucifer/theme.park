@@ -278,7 +278,7 @@ logo.angle {
     animation-duration: .7s;
 }
 
-/*CUSTOM HEADER*/
+/*CUSTOM HEADER
 .custom-text-header {
     white-space: pre;
     letter-spacing: 2px;
@@ -312,6 +312,7 @@ logo.angle {
     -webkit-animation: blink 1s step-end infinite;
     animation: blink 1s step-end infinite;
 }
+*/
 @-webkit-keyframes blink {
     0% { opacity: 1.0; }
     50% { opacity: 0.0; }
