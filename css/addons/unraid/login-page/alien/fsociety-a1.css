@@ -1,7 +1,7 @@
 @import url("/css/addons/unraid/login-page/alien/alien_base.css");
 :root {
     --main-bg: radial-gradient(ellipse at center,rgba(255, 255, 255, 0.1) 0,rgba(255,255,255,0) 100%) center center/cover no-repeat fixed, 
-    url(https://i.imgur.com/jIP5k8r.jpg) center center/cover no-repeat fixed;
+    url(https://i.imgur.com/LkFwxfU.jpg) center center/cover no-repeat fixed;
     --logo: url(https://i.imgur.com/fBvBkZa.png) center no-repeat;
     --text-color: #ffffff;
     --input-color: #ffffff;
