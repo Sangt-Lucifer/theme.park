@@ -1,0 +1,22 @@
+@import url("/css/addons/unraid/login-page/alien/alien_base.css");
+:root {
+    --main-bg: radial-gradient(ellipse at center,rgba(255, 255, 255, 0.1) 0,rgba(255,255,255,0) 100%) center center/cover no-repeat fixed, 
+    url(https://i.imgur.com/wbvQDC3.jpg) center center/cover no-repeat fixed;
+    --logo: url(https://i.imgur.com/fBvBkZa.png) center no-repeat;
+    --text-color: #ffffff;
+    --input-color: #ffffff;
+    --link-color: #ffffff;
+    --link-color-hover: #ffffff;
+    --case-color: #ffffff;
+    --button-text-color: #ffffff;
+    --button-text-color-hover: #000000;
+    --button-color: #ffffff;
+    --button-color2: #ffffff;
+    --button-color-hover: #ffffff;
+    --button-color2-hover: #ffffff;
+    --input-font: 'Share Tech Mono', monospace;
+    --text-font: 'Share Tech Mono', monospace;   /*'VT323', 'Share Tech Mono'*/
+    --div-background-color-15: rgba(255, 255, 255, 0.03);
+    --text-shadow: 0 0 8px;
+    --box-shadow: 0 0 15px;
+}
