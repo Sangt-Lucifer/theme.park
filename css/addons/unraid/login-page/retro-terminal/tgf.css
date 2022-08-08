@@ -1,0 +1,33 @@
+/*_____________________AMBER_THEME______________________*/
+/* --body-before:#00ff771a; /* This is the background that creates the crt lines, background uses a transparency of 10% SET TO NONE TO REMOVE CRT EFFECT */
+/* --body-after: #00ff7733; /* This is the background that creates the crt lines, background uses a transparency of 20% SET TO NONE TO REMOVE CRT EFFECT */
+/* --body-animation: flicker; This is the background that flickers. SET TO NONE TO REMOVE THE FLICKER ANIMATION! */
+/* --custom-text-header-animation: textflicker; /* SET TO NONE TO REMOVE THE FLICKER ANIMATION! */
+
+@import url(http://cdn.thegeekfreaks.de/Download/theme.park/CSS/addons/unraid/login-page/retro-terminal/retro-terminal-base.css);
+:root {
+--main-bg-color:black;
+--body-before:#ff802a1a;
+--body-after: #ff802a33;
+--body-animation: flicker;
+--logo: url(http://cdn.thegeekfreaks.de/Download/theme.park/CSS/addons/unraid/login-page/retro-terminal/logo2tran2s.png) center no-repeat;
+--text-color: #ff802a;
+--input-color: #ff802a;
+--link-color: #ff802a;
+--link-color-hover: #ff6868;
+--case-color: #ff802a;
+--button-text-color: #ffb52a;
+--button-text-color-hover: #000;
+--button-color: #ff802a;
+--button-color-hover: #ff6868;
+--selection-color: #ff6868;
+--custom-text-header:#ff802a;
+--custom-text-header-shadow:#ff802a;
+--custom-text-header-animation: textflicker;
+--input-font: 'Share Tech Mono', monospace;
+--text-font: 'Share Tech Mono', monospace;
+--loginbox-background-color: transparent;
+--text-shadow: 1 1 8px;
+--text-shadow-color: #ff5d2a;
+--box-shadow: 0 0 20px;
+}
