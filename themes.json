@@ -10,9 +10,9 @@
     "organizr": {
       "glass": {
         "css": [
+          "https://theme-park.dev/css/addons/organizr/glass/glass-login.css?sha=0200383709509139874da6540d8a7fc07030f172",
           "https://theme-park.dev/css/addons/organizr/glass/organizr-base-old.css?sha=e48f350f07564f9a83e886d10bfbd6038aec99d0",
-          "https://theme-park.dev/css/addons/organizr/glass/glass-base.css?sha=2a9c46b4f939049c416caede0226ee57528e0bb6",
-          "https://theme-park.dev/css/addons/organizr/glass/glass-login.css?sha=0200383709509139874da6540d8a7fc07030f172"
+          "https://theme-park.dev/css/addons/organizr/glass/glass-base.css?sha=2a9c46b4f939049c416caede0226ee57528e0bb6"
         ]
       }
     },
@@ -39,45 +39,45 @@
       "login-page": {
         "alien": {
           "css": [
-            "https://theme-park.dev/css/addons/unraid/login-page/alien/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
+            "https://theme-park.dev/css/addons/unraid/login-page/alien/nightmare.css?sha=8c6cadb1ffa63986e75b7ea01f6ebb18c8f8f7d3",
             "https://theme-park.dev/css/addons/unraid/login-page/alien/tgf.css?sha=7ac4a93646c8eab3961282476d1715000c7c9753",
-            "https://theme-park.dev/css/addons/unraid/login-page/alien/fsociety-a1.css?sha=d08af5fa40f4899435820b541fe446ca7621a3e9",
+            "https://theme-park.dev/css/addons/unraid/login-page/alien/GreenMatrix.css?sha=6f1b3b9110d730d01e340e3ee221247d1864f055",
+            "https://theme-park.dev/css/addons/unraid/login-page/alien/isolation.css?sha=eb795ea317c8f477ad4e9769dd8ad4ded272ab22",
+            "https://theme-park.dev/css/addons/unraid/login-page/alien/biohazard-red.css?sha=32314f3ea8aa41abfc2010febc9736a29b0cfc85",
+            "https://theme-park.dev/css/addons/unraid/login-page/alien/ibracorp.css?sha=10e3017b05a686ad23d5c9badf2c806ff3b4155b",
+            "https://theme-park.dev/css/addons/unraid/login-page/alien/fsociety.css?sha=fd79ecbe2a7801c1a4437e5a93adfa95c00bde5e",
+            "https://theme-park.dev/css/addons/unraid/login-page/alien/hallway4.css?sha=bfd5e75c703e56f190b5dfbba57fbba4078da1de",
             "https://theme-park.dev/css/addons/unraid/login-page/alien/alien-base.css?sha=7e310e223692a1169d19ad0eec747488ece7ca4e",
             "https://theme-park.dev/css/addons/unraid/login-page/alien/scanner.css?sha=7c65e7d600c161dbfe157a3304bb74eb0d543b43",
-            "https://theme-park.dev/css/addons/unraid/login-page/alien/hallway4.css?sha=bfd5e75c703e56f190b5dfbba57fbba4078da1de",
-            "https://theme-park.dev/css/addons/unraid/login-page/alien/fsociety-a2.css?sha=6f6d9b9c839575211ff276288ccaa1140888e16d",
-            "https://theme-park.dev/css/addons/unraid/login-page/alien/fsociety.css?sha=fd79ecbe2a7801c1a4437e5a93adfa95c00bde5e",
-            "https://theme-park.dev/css/addons/unraid/login-page/alien/biohazard-red.css?sha=32314f3ea8aa41abfc2010febc9736a29b0cfc85",
-            "https://theme-park.dev/css/addons/unraid/login-page/alien/umbrella.css?sha=6b1d3ff0e49be3acfe26a8112fa08e19a147bb06",
-            "https://theme-park.dev/css/addons/unraid/login-page/alien/isolation.css?sha=eb795ea317c8f477ad4e9769dd8ad4ded272ab22",
-            "https://theme-park.dev/css/addons/unraid/login-page/alien/nightmare.css?sha=8c6cadb1ffa63986e75b7ea01f6ebb18c8f8f7d3",
-            "https://theme-park.dev/css/addons/unraid/login-page/alien/ibracorp.css?sha=10e3017b05a686ad23d5c9badf2c806ff3b4155b",
             "https://theme-park.dev/css/addons/unraid/login-page/alien/fsociety-mr1.css?sha=fb2881655808e74eb042a3878bf3ba71a22d8aef",
             "https://theme-park.dev/css/addons/unraid/login-page/alien/isolation_video.css?sha=a66b918a52c776d08d7e30453d77084328ff5b40",
-            "https://theme-park.dev/css/addons/unraid/login-page/alien/GreenMatrix.css?sha=6f1b3b9110d730d01e340e3ee221247d1864f055"
+            "https://theme-park.dev/css/addons/unraid/login-page/alien/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
+            "https://theme-park.dev/css/addons/unraid/login-page/alien/fsociety-a1.css?sha=d08af5fa40f4899435820b541fe446ca7621a3e9",
+            "https://theme-park.dev/css/addons/unraid/login-page/alien/umbrella.css?sha=6b1d3ff0e49be3acfe26a8112fa08e19a147bb06",
+            "https://theme-park.dev/css/addons/unraid/login-page/alien/fsociety-a2.css?sha=6f6d9b9c839575211ff276288ccaa1140888e16d"
           ]
         },
         "fallout": {
           "css": [
-            "https://theme-park.dev/css/addons/unraid/login-page/fallout/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
             "https://theme-park.dev/css/addons/unraid/login-page/fallout/dirty_terminal2.css?sha=407558ab914c64cebc485d479cda683abffbbb4e",
-            "https://theme-park.dev/css/addons/unraid/login-page/fallout/dirty_terminal.css?sha=bac17b4fa56fb3d00f904a45c336af0a57788c8f",
-            "https://theme-park.dev/css/addons/unraid/login-page/fallout/terminal2.css?sha=cea6c1ae7e841cf7900b093b65f6049fcbb2873f",
             "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout-base.css?sha=3a79171bff7252461e4ff5e76b507640bffcf5e1",
+            "https://theme-park.dev/css/addons/unraid/login-page/fallout/ibracorp.css?sha=10e3017b05a686ad23d5c9badf2c806ff3b4155b",
+            "https://theme-park.dev/css/addons/unraid/login-page/fallout/terminal2.css?sha=cea6c1ae7e841cf7900b093b65f6049fcbb2873f",
             "https://theme-park.dev/css/addons/unraid/login-page/fallout/ibracorp-video.css?sha=82ed2d9a046079b23825910227608e9f66e25e57",
-            "https://theme-park.dev/css/addons/unraid/login-page/fallout/ibracorp.css?sha=10e3017b05a686ad23d5c9badf2c806ff3b4155b"
+            "https://theme-park.dev/css/addons/unraid/login-page/fallout/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
+            "https://theme-park.dev/css/addons/unraid/login-page/fallout/dirty_terminal.css?sha=bac17b4fa56fb3d00f904a45c336af0a57788c8f"
           ]
         },
         "retro-terminal": {
           "css": [
-            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
+            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/blue.css?sha=129b982f0fb99e29d36a7f507bde0f07b57caa48",
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/tgf.css?sha=7ac4a93646c8eab3961282476d1715000c7c9753",
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/amber.css?sha=7ec771cb909172528b1905e26e4e8faaa0645fda",
-            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/white.css?sha=3bc8cfd778af2f41deb8a7d7b25bbcdad186f2ed",
-            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/blue.css?sha=129b982f0fb99e29d36a7f507bde0f07b57caa48",
-            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=ecc3fb8c7fb720609886208e0c4de2a870fd2cda",
+            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/ibracorp.css?sha=10e3017b05a686ad23d5c9badf2c806ff3b4155b",
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=f7ebeeac8f0d7400f63e5fc27520aec865715755",
-            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/ibracorp.css?sha=10e3017b05a686ad23d5c9badf2c806ff3b4155b"
+            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=ecc3fb8c7fb720609886208e0c4de2a870fd2cda",
+            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
+            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/white.css?sha=3bc8cfd778af2f41deb8a7d7b25bbcdad186f2ed"
           ]
         }
       }
@@ -305,9 +305,9 @@
       "addons": {
         "glass": {
           "css": [
+            "https://theme-park.dev/css/addons/organizr/glass/glass-login.css?sha=0200383709509139874da6540d8a7fc07030f172",
             "https://theme-park.dev/css/addons/organizr/glass/organizr-base-old.css?sha=e48f350f07564f9a83e886d10bfbd6038aec99d0",
-            "https://theme-park.dev/css/addons/organizr/glass/glass-base.css?sha=2a9c46b4f939049c416caede0226ee57528e0bb6",
-            "https://theme-park.dev/css/addons/organizr/glass/glass-login.css?sha=0200383709509139874da6540d8a7fc07030f172"
+            "https://theme-park.dev/css/addons/organizr/glass/glass-base.css?sha=2a9c46b4f939049c416caede0226ee57528e0bb6"
           ]
         }
       },
@@ -400,45 +400,45 @@
         "login-page": {
           "alien": {
             "css": [
-              "https://theme-park.dev/css/addons/unraid/login-page/alien/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
+              "https://theme-park.dev/css/addons/unraid/login-page/alien/nightmare.css?sha=8c6cadb1ffa63986e75b7ea01f6ebb18c8f8f7d3",
               "https://theme-park.dev/css/addons/unraid/login-page/alien/tgf.css?sha=7ac4a93646c8eab3961282476d1715000c7c9753",
-              "https://theme-park.dev/css/addons/unraid/login-page/alien/fsociety-a1.css?sha=d08af5fa40f4899435820b541fe446ca7621a3e9",
+              "https://theme-park.dev/css/addons/unraid/login-page/alien/GreenMatrix.css?sha=6f1b3b9110d730d01e340e3ee221247d1864f055",
+              "https://theme-park.dev/css/addons/unraid/login-page/alien/isolation.css?sha=eb795ea317c8f477ad4e9769dd8ad4ded272ab22",
+              "https://theme-park.dev/css/addons/unraid/login-page/alien/biohazard-red.css?sha=32314f3ea8aa41abfc2010febc9736a29b0cfc85",
+              "https://theme-park.dev/css/addons/unraid/login-page/alien/ibracorp.css?sha=10e3017b05a686ad23d5c9badf2c806ff3b4155b",
+              "https://theme-park.dev/css/addons/unraid/login-page/alien/fsociety.css?sha=fd79ecbe2a7801c1a4437e5a93adfa95c00bde5e",
+              "https://theme-park.dev/css/addons/unraid/login-page/alien/hallway4.css?sha=bfd5e75c703e56f190b5dfbba57fbba4078da1de",
               "https://theme-park.dev/css/addons/unraid/login-page/alien/alien-base.css?sha=7e310e223692a1169d19ad0eec747488ece7ca4e",
               "https://theme-park.dev/css/addons/unraid/login-page/alien/scanner.css?sha=7c65e7d600c161dbfe157a3304bb74eb0d543b43",
-              "https://theme-park.dev/css/addons/unraid/login-page/alien/hallway4.css?sha=bfd5e75c703e56f190b5dfbba57fbba4078da1de",
-              "https://theme-park.dev/css/addons/unraid/login-page/alien/fsociety-a2.css?sha=6f6d9b9c839575211ff276288ccaa1140888e16d",
-              "https://theme-park.dev/css/addons/unraid/login-page/alien/fsociety.css?sha=fd79ecbe2a7801c1a4437e5a93adfa95c00bde5e",
-              "https://theme-park.dev/css/addons/unraid/login-page/alien/biohazard-red.css?sha=32314f3ea8aa41abfc2010febc9736a29b0cfc85",
-              "https://theme-park.dev/css/addons/unraid/login-page/alien/umbrella.css?sha=6b1d3ff0e49be3acfe26a8112fa08e19a147bb06",
-              "https://theme-park.dev/css/addons/unraid/login-page/alien/isolation.css?sha=eb795ea317c8f477ad4e9769dd8ad4ded272ab22",
-              "https://theme-park.dev/css/addons/unraid/login-page/alien/nightmare.css?sha=8c6cadb1ffa63986e75b7ea01f6ebb18c8f8f7d3",
-              "https://theme-park.dev/css/addons/unraid/login-page/alien/ibracorp.css?sha=10e3017b05a686ad23d5c9badf2c806ff3b4155b",
               "https://theme-park.dev/css/addons/unraid/login-page/alien/fsociety-mr1.css?sha=fb2881655808e74eb042a3878bf3ba71a22d8aef",
               "https://theme-park.dev/css/addons/unraid/login-page/alien/isolation_video.css?sha=a66b918a52c776d08d7e30453d77084328ff5b40",
-              "https://theme-park.dev/css/addons/unraid/login-page/alien/GreenMatrix.css?sha=6f1b3b9110d730d01e340e3ee221247d1864f055"
+              "https://theme-park.dev/css/addons/unraid/login-page/alien/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
+              "https://theme-park.dev/css/addons/unraid/login-page/alien/fsociety-a1.css?sha=d08af5fa40f4899435820b541fe446ca7621a3e9",
+              "https://theme-park.dev/css/addons/unraid/login-page/alien/umbrella.css?sha=6b1d3ff0e49be3acfe26a8112fa08e19a147bb06",
+              "https://theme-park.dev/css/addons/unraid/login-page/alien/fsociety-a2.css?sha=6f6d9b9c839575211ff276288ccaa1140888e16d"
             ]
           },
           "fallout": {
             "css": [
-              "https://theme-park.dev/css/addons/unraid/login-page/fallout/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/dirty_terminal2.css?sha=407558ab914c64cebc485d479cda683abffbbb4e",
-              "https://theme-park.dev/css/addons/unraid/login-page/fallout/dirty_terminal.css?sha=bac17b4fa56fb3d00f904a45c336af0a57788c8f",
-              "https://theme-park.dev/css/addons/unraid/login-page/fallout/terminal2.css?sha=cea6c1ae7e841cf7900b093b65f6049fcbb2873f",
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout-base.css?sha=3a79171bff7252461e4ff5e76b507640bffcf5e1",
+              "https://theme-park.dev/css/addons/unraid/login-page/fallout/ibracorp.css?sha=10e3017b05a686ad23d5c9badf2c806ff3b4155b",
+              "https://theme-park.dev/css/addons/unraid/login-page/fallout/terminal2.css?sha=cea6c1ae7e841cf7900b093b65f6049fcbb2873f",
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/ibracorp-video.css?sha=82ed2d9a046079b23825910227608e9f66e25e57",
-              "https://theme-park.dev/css/addons/unraid/login-page/fallout/ibracorp.css?sha=10e3017b05a686ad23d5c9badf2c806ff3b4155b"
+              "https://theme-park.dev/css/addons/unraid/login-page/fallout/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
+              "https://theme-park.dev/css/addons/unraid/login-page/fallout/dirty_terminal.css?sha=bac17b4fa56fb3d00f904a45c336af0a57788c8f"
             ]
           },
           "retro-terminal": {
             "css": [
-              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
+              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/blue.css?sha=129b982f0fb99e29d36a7f507bde0f07b57caa48",
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/tgf.css?sha=7ac4a93646c8eab3961282476d1715000c7c9753",
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/amber.css?sha=7ec771cb909172528b1905e26e4e8faaa0645fda",
-              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/white.css?sha=3bc8cfd778af2f41deb8a7d7b25bbcdad186f2ed",
-              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/blue.css?sha=129b982f0fb99e29d36a7f507bde0f07b57caa48",
-              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=ecc3fb8c7fb720609886208e0c4de2a870fd2cda",
+              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/ibracorp.css?sha=10e3017b05a686ad23d5c9badf2c806ff3b4155b",
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=f7ebeeac8f0d7400f63e5fc27520aec865715755",
-              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/ibracorp.css?sha=10e3017b05a686ad23d5c9badf2c806ff3b4155b"
+              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=ecc3fb8c7fb720609886208e0c4de2a870fd2cda",
+              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
+              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/white.css?sha=3bc8cfd778af2f41deb8a7d7b25bbcdad186f2ed"
             ]
           }
         }
